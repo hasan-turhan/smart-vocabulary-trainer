@@ -1,16 +1,19 @@
-# Smart German Vocabulary Trainer
+## Smart German Vocabulary Trainer
 
-Android application for learning German vocabulary using
-color-coded articles and interactive flashcards.
+Android application designed to help learners improve their German vocabulary using **color-coded articles** and **interactive flashcards**.
 
-## Features
-- Color-coded word articles for better memorization
-- Flashcard-based vocabulary practice
-- Simple and user-friendly interface
+### ✨ Features
 
-## Technologies
-- Kotlin (jetpack compose)
-- Android Studio 
+* Color-coded German articles (*der, die, das*) to support faster memorization
+* Flashcard-based vocabulary practice
+* Clean and user-friendly interface
 
-## Author
-Hasan Turhan
+### 🛠 Technologies
+
+* **Kotlin**
+* **Jetpack Compose**
+* **Android Studio**
+
+### 👨‍💻 Author
+
+**Hasan Turhan**
