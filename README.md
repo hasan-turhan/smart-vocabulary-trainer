@@ -30,7 +30,7 @@ Android application designed to help learners improve their German vocabulary us
 <img src="learnwords_back.jpeg" width="260"/>
 </p>
 
-### Another Example
+### Favorite Words
 <p align="center">
 <img src="favoritewords.jpeg" width="260"/>
 <img src="favoritewords_back.jpeg" width="260"/>
