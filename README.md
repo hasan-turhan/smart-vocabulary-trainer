@@ -9,7 +9,9 @@ Android application designed to help learners improve their German vocabulary us
 * Color-coded German articles (**der, die, das**) to support faster memorization
 * Flashcard-based vocabulary learning
 * Tap the flashcard to reveal the meaning
-* A suffle sbutton to mix up the words
+* Shuffle button to randomize the order of words
+* Word pronunciation button for both German and English
+* Favorite button
 * Simple and clean user interface
 
 ---
